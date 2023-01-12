@@ -36,5 +36,8 @@
     <a href="https://youtube.com/c/KozaKrisz" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
     </a>
+    <a href="https://linkedin.com.com/in/krisztiankecskes" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
   </div>
   
