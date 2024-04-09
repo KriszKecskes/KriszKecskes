@@ -34,7 +34,7 @@
 ###  🌍 Social
   
   <div style="display:flex;flex-wrap:wrap">
-    <a href="https://twitter.com/Krisz_Kecskes" target="_blank">
+    <a href="https://twitter.com/KozaKrisz" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
     </a>
     <a href="https://youtube.com/c/KozaKrisz" target="_blank">
