@@ -1,47 +1,110 @@
-# Hi, I'm Krisztian! 👋
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=9E00B2&width=435&lines=Welcome+to+my+awesome+GitHub+page!" alt="Welcome to my awesome GitHub page!" />
+# Hey, I'm Krisztián 👋
 
-## <img src="./images/code.gif" width ="25"> My Skills
+## Senior Full-Stack Engineer • Go Enthusiast • AI Explorer
 
-<div style="display:flex;flex-wrap:wrap">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron JS"/>
-  <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp"/>
-  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
-  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress"/>
-  
-<div>
+I build modern web applications, backend services, and AI-powered integrations with a strong focus on clean architecture, performance, and developer experience.
 
-###  ⌨️ Editors
-<img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="Webstorm"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
-  
-###  🌍 Social
-  
-  <div style="display:flex;flex-wrap:wrap">
-    <a href="https://twitter.com/KozaKrisz" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="https://youtube.com/c/KozaKrisz" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
-    </a>
-    <a href="https://linkedin.com/in/krisztiankecskes" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </div>
-  
+Over the years I’ve worked across frontend and backend stacks using technologies like:
+
+- React
+- Next.js
+- TypeScript
+- Node.js
+- Go
+- Docker
+
+Recently, my main focus has shifted toward:
+
+- AI integrations & automation
+- LLM-powered workflows
+- Go backend services
+- Scalable full-stack architectures
+- Developer tooling & productivity systems
+
+---
+
+## 🚀 What I enjoy building
+
+- High-quality web platforms
+- Internal admin systems
+- AI-assisted applications
+- Automation tools
+- Modern API architectures
+- Fast and clean developer experiences
+
+I enjoy understanding systems end-to-end — from UI/UX all the way down to infrastructure and backend services.
+
+---
+
+## 🧠 Current Interests
+
+```ts
+const currentFocus = {
+  backend: ["Go", "Node.js", "Microservices"],
+  frontend: ["Next.js", "React", "TypeScript"],
+  ai: [
+    "LLM integrations",
+    "AI automation",
+    "Prompt engineering",
+    "Agent workflows"
+  ],
+  devops: ["Docker", "Linux", "CI/CD"],
+};
+```
+
+---
+
+## ⚡ Philosophy
+
+> Keep learning. Keep building. Keep shipping.
+
+I believe the future belongs to developers who can combine:
+- software engineering
+- systems thinking
+- and AI capabilities
+
+into real-world products.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Mantine
+- Styled Components
+
+### Backend
+- Go
+- Node.js
+- REST APIs
+- PHP (legacy experience)
+
+### Tools & DevOps
+- Docker
+- Git
+- Linux
+- Webpack
+- Rollup
+
+### Exploring
+- AI APIs
+- MCP ecosystem
+- Autonomous workflows
+- AI-enhanced development
+
+---
+
+## 🌍 Connect
+
+- LinkedIn: https://linkedin.com/in/krisztiankecskes
+
+---
+
+```bash
+> Building systems.
+> Exploring AI.
+> Always learning.
+```
